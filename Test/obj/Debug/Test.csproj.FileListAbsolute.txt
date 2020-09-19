@@ -1,0 +1,9 @@
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\bin\Debug\Test.exe.config
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\bin\Debug\Test.exe
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\bin\Debug\Test.pdb
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\obj\Debug\Test.Form1.resources
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\obj\Debug\Test.exe
+C:\Users\zhuan\source\repos\SalonDeBelleza\Test\obj\Debug\Test.pdb
